@@ -168,7 +168,7 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 ## 👤 Autor
 
 **Tu Nombre**
-- GitHub: [@L14dev](https://github.com/lucaslopezsuarez2014)
+- GitHub: [@L14dev](https://github.com/lucaslopezsuarez2014-arch)
 
 ## 🌟 Agradecimientos
 
