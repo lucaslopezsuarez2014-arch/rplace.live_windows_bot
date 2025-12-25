@@ -1,0 +1,11 @@
+{
+  "num_bots": 4,
+  "start_x": 0,
+  "start_y_positions": [0, 1, 2, 3],
+  "delay_between_actions": 5,
+  "delay_initial_load": 10,
+  "color_to_place": 1,
+  "auto_advance_x": true,
+  "browser": "chrome",
+  "headless": false
+}
